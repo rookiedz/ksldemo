@@ -1,0 +1,5 @@
+https://public-api.bluedragonlottery.com/api/public/v2/report/home-page-summary
+
+https://public-api.bluedragonlottery.com/api/public/v2/lottery-draws
+
+https://public-api.bluedragonlottery.com/api/public/v2/lottery-results?lottery_draw_id=1
